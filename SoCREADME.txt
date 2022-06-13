@@ -6,7 +6,7 @@ Luckily, The Engineer got carried away and modified your Anomatic Particle Accel
 
 W A S D to move, mouse to aim. Bullets will auto fire on a cooldown. You only have 1 hit point to keep you chugging and choo-ing, so avoid those baddies like your life depends on it (because...you know...it does!)
 
-Baddies have a chance to drop bundles of compressed, undigested blue energy. After a short time floating in the Vortex they will begin to activate and turn green. Green energy power-ups will turn to red Volatile Reactives after floating in the Vortex for some time. Be careful! Every absorbed power up will attract more and stronger Baddies! Balance choosing your blue and green powerups with how much chaos you can while also killing enough bosses to move to the next level before the level timer expires. But remember, the more you kill and the tougher the baddies, the higher your score. Risk = reward!! Baddies ALSO get faster and healthier as the timer winds down, making kills tougher and giving your train less safe space to move, grabbing too many pickups late in the level could wipe your train from the cosmos. Strategy is very important for high scoring runs. Getting a great level one score won't help if you die at the end while safer players move on to higher levels!
+Baddies have a chance to drop bundles of compressed, undigested blue energy. After a short time floating in the Vortex they will begin to activate and turn green. Green energy power-ups will turn to red Volatile Reactives after floating in the Vortex for some time. Be careful! Every absorbed power up will attract more and more Baddies and increase their speed! Balance choosing your blue and green powerups with how much chaos you can while also killing enough bosses to move to the next level before the level timer expires. But remember, the more you kill and the tougher the baddies, the higher your score. Risk = reward!! Baddies ALSO get faster and spawn more as the timer winds down, making kills tougher and giving your train less safe space to move, grabbing too many pickups late in the level could wipe your train from the cosmos. Strategy is very important for high scoring runs. Getting a great level one score won't help if you die at the end while safer players move on to higher levels!
 
 STARTING STATS:
 	Speed: 3
@@ -25,15 +25,14 @@ Red: Destroy all enemies(not Bosses) and power ups on the board (good to have la
 Gold: Bosses drop these trophies, giving a huge points boost and charging the train's Warp Tanks. Each warp requires a different amount of Boss Energy to engage(in Demo Level 1 you need 5) to move to the next level.
 
 PLANNED/CORE:
-Stat indicators/HUD
-Train Health(no more 1 shot deaths)
+
 Extran Mans(points based or possibly a conditional random chance power up drop)
 Bullet pass-through stat to power up(can hit multiple enemies)
 5 levels with 10 minute timer before Game Over or maybe "enrage" timer causing unbeatable baddy spawn rates. (Leaderboard runs will be all about efficient farming, taking risks with power-ups, pushing the level timer without screwing yourself over, and of course reaction time and general arena shooter/twin stick Diablo skills)
 
 PLANNED/WANTED
 New Weapons (damage aura, seeker missiles, lazer: y'know, weapons etc)
-Mega Boss (maybe bullet hell, maybe some other fun mechanic. every 5 levels)
+Mega Boss (maybe bullet hell, maybe some other fun mechanic. every 4 levels)
 
 STRETCH GOALS:
 Procedural Level Generation (infinity amount of levels [if you get gud])
